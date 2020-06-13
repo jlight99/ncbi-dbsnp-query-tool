@@ -1,0 +1,2 @@
+this tool is used to retrieve information from the U.S. National Library of Medicine's databases (specifically the National Center for Biotechnology Information dbSNP database)
+this tool is not meant for profit and anyone is free to use it :)

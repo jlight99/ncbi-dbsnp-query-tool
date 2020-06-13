@@ -1,0 +1,10 @@
+rate:
+3 URL requests / second
+10 URL requests / second using API key
+can batch requests
+
+should run on weekends or weekdays between 9 pm and 5 am Eastern Time
+
+guideline reference:
+https://www.ncbi.nlm.nih.gov/books/NBK25497/#chapter2.Usage_Guidelines_and_Requiremen
+
