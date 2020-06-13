@@ -11,7 +11,7 @@ read -p 'Please enter the file name of the file you want the data to be written 
 [[ -z "${output_file// }" ]] && output_file="output"
 
 # read path to jq executable
-read -p 'Please enter the path to the jq executable (default: ./jq-win64.exe): ' jq_exe
+read -p 'Please enter the path to the jq executable (default: ./jq-win64.exe, for macOS/linux users, type jq): ' jq_exe
 [[ -z "${jq_exe// }" ]] && jq_exe="./jq-win64.exe"
 
 # append json file extension to output file
